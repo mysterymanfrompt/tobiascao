@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tobiascao/static/css/main.d82ae5de.chunk.css",
+    "main.js": "/tobiascao/static/js/main.bc8c029d.chunk.js",
+    "main.js.map": "/tobiascao/static/js/main.bc8c029d.chunk.js.map",
+    "runtime-main.js": "/tobiascao/static/js/runtime-main.6764a503.js",
+    "runtime-main.js.map": "/tobiascao/static/js/runtime-main.6764a503.js.map",
+    "static/js/2.1644874c.chunk.js": "/tobiascao/static/js/2.1644874c.chunk.js",
+    "static/js/2.1644874c.chunk.js.map": "/tobiascao/static/js/2.1644874c.chunk.js.map",
+    "static/js/3.a9078d7d.chunk.js": "/tobiascao/static/js/3.a9078d7d.chunk.js",
+    "static/js/3.a9078d7d.chunk.js.map": "/tobiascao/static/js/3.a9078d7d.chunk.js.map",
+    "index.html": "/tobiascao/index.html",
+    "static/css/main.d82ae5de.chunk.css.map": "/tobiascao/static/css/main.d82ae5de.chunk.css.map",
+    "static/js/2.1644874c.chunk.js.LICENSE.txt": "/tobiascao/static/js/2.1644874c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6764a503.js",
+    "static/js/2.1644874c.chunk.js",
+    "static/css/main.d82ae5de.chunk.css",
+    "static/js/main.bc8c029d.chunk.js"
+  ]
+}
