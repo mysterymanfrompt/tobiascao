@@ -1,0 +1,36 @@
+.class-button {
+  font-family: "Montserrat", sans-serif;
+  color: inherit;
+  font-size: 1.2em;
+  cursor: pointer;
+
+  height: 45px;
+  width: fit-content;
+  border: 2px solid rgba(0, 0, 0, 0.253);
+  border-radius: 50px;
+  background-color: rgb(241, 241, 241);
+  padding: 0px 10px 0px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 7px;
+  box-shadow: 2px 2px 15px -3px grey;
+}
+
+.class-button:hover {
+  background-color: rgba(199, 199, 199, 0.849);
+}
+.class-button:active {
+  background-color: rgba(243, 243, 243, 0.849);
+}
+
+.button-text {
+  padding-right: 5px;
+}
+
+.button-image {
+  margin: 3px 7px 2px 3px;
+  height: 40px;
+  width: 40px;
+  border-radius: 50px;
+}

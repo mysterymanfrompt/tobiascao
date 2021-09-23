@@ -1,0 +1,37 @@
+.training-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.inner-circle {
+  position: absolute;
+  width: 80%;
+  height: 100%;
+
+  z-index: -1;
+
+  border-radius: 5000px;
+  background: radial-gradient(
+    ellipse farthest-corner,
+    rgb(243, 188, 7),
+    transparent 60%
+  ); /* for gradients (a bit confusing): https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/radial-gradient()*/
+
+  background-repeat: no-repeat;
+}
+
+.classes-container {
+  width: 83.33%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.training-text {
+  margin-top: 0px;
+}
