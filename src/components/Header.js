@@ -2,14 +2,13 @@ import { useEffect } from "react";
 import "./Header.css";
 
 const Header = ({ currentDiv, onClickFunction }) => {
-  useEffect(() => {
-    testingReplacingUrl();
-  }, []);
+  useEffect(() => {}, []);
 
+  /*
   const testingReplacingUrl = () => {
     window.history.pushState("page2", "Title", "/page2");
   };
-
+*/
   console.log("CUrrent div: ", currentDiv);
 
   return (
